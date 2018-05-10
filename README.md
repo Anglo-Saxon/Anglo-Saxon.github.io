@@ -8,4 +8,4 @@ The overall goal of this project was to provide a means of students entering the
 Project Description:
 This chatbot answers questions about school classes and their locations, experiences, and the oppurtunities certain classes have to offer.
 
-![filter](/Chatbots_{Anglo-Saxon}.png) 
+![filter](/Chatbots_{Anglo-Saxon}.png.PNG) 
